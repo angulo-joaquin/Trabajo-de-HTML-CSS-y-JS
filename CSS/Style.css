@@ -32,4 +32,6 @@ body{
 
 .estudiante{
     margin: 10px;
+    float: left;
+    background-color: grey
 }
