@@ -22,3 +22,14 @@ div{
 body{
  background-color: whitesmoke;
 }
+
+.logos{
+    justify-content: center;
+    width: auto;
+    height: auto;
+    display: grid;
+}
+
+.estudiante{
+    margin: 10px;
+}
