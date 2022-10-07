@@ -6,6 +6,7 @@
 .titulos{
     font-family: 'Times New Roman', Times, serif;
     display: grid;
+    text-align: center;
 }
 
 .respuesta{
